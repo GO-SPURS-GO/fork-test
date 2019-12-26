@@ -1,2 +1,2 @@
 # fork-test
-learn to use fork
+learn how to use fork
